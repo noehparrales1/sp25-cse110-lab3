@@ -2,11 +2,10 @@
 /* Variables and Fallbacks */
 body{
     background-color: var(--main-color, rgb(255, 115, 0));
-    font-family: cursive;
-    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: pink;
     margin-top: 0;
     padding: 0;
-    color: color-mix(in srgb, black 40%, purple );
     
 
 }
