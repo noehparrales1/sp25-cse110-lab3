@@ -9,15 +9,23 @@
 - [Name 3]
 
 ## What was accomplished since the last meeting?
-- [e.g., Finished creating HTML layout for team page]
+- []
+- []
+- []
 
 ## What are you working on next?
 - [e.g., Styling the page with CSS]
 
-## Any blockers or issues?
-- [e.g., Not sure how to embed a video clip]
+## Any issues?
+- []
 
 ## Action Items
 - [ ] Assign someone to complete README.md
 - [ ] Finalize CSS styling
 - [ ] Submit GitHub Pages URL
+
+
+# Meeting Summary 
+-  
+-  
+- 
